@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Duncan, J. & Caidi, N. (2018). “Mobilities, Media and Governmentality: Asylum Seekers in Lacolle, Quebec.”"
-authors:
-date: 2018-11-14T21:31:43-04:00
+title: "Duncan, J. (2018). Uncertainty and Desire: Big Data Surveillance and Digital Citizenship"
+authors: []
+date: 2018-04-14T23:04:31-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-14T21:31:43-04:00
+publishDate: 2020-07-14T23:04:31-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2020-07-14T21:31:43-04:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: German Journal of Social Work and Migration
-publication_short:
+publication: "iJournal"
+publication_short: "iJournal: Graduate Student Journal of the Faculty of Information"
 
-abstract: "This article reflects upon the anomalous rise of irregular migration into Canada through the small town of Lacolle, Quebec and how the government chose to respond. We ask: How do Canadian governmentalities of mobility express themselves in mass media coverage of irregular migration into Lacolle? Much like its European counterparts, the Canadian government has relied on discourses of humanitarian securitization to justify its policies. Irregular crossings have presented a signficant challenge to the ways in which the Canadian government has traditionally limited and compelled the agency of those subject to its power. To meet these challenges, the government has had to grapple with new governance strategies in a series of entangled infrastructural, policy, and narrative interventions. This article chronicles these recent developments and offers an analytical lens."
+abstract: "This synthesis presents the works of several key scholars in the field of critical data studies to explore how the practice of Big Data surveillance is redrafting possibilities for digital citizenship and contemporary democracy. Through a critical analysis of five works, I establish that the distinction between public and private surveillance is becoming ever-more unclear. In this light, I explore how the technology interfaces with inequality, transparency, and online participation, calling into question the validity, ethics and consequences of Big Data surveillance. I discuss how these phenomena construct ambivalent digital citizens who are both willing participants and fearful subjects in their online activities. I conclude that transparency, democratic accountability and novel forms of activism and policymaking are needed to counter the use of Big Data as a tool of political control and manipulation."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,13 +36,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://nadiacaidi.files.wordpress.com/2019/02/duncan_caidi_migration-und-soziale-arbeit-_2018.pdf"
+url_pdf: "https://theijournal.ca/index.php/ijournal/article/view/29489/21980"
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "https://www.beltz.de/fachmedien/sozialpaedagogik_soziale_arbeit/zeitschriften/migration_und_soziale_arbeit/article/Journal.html?tx_beltz_journal%5Barticle%5D=40536&cHash=89209acd4d0e416fccbc955b3ae7b4a5"
+url_source: "https://theijournal.ca/index.php/ijournal/article/view/29489"
 url_video:
 
 # Featured image
@@ -51,7 +51,7 @@ url_video:
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
