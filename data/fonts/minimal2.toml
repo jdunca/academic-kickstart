@@ -1,12 +1,12 @@
 
 # Font style metadata
-name = "alison"
+name = "minimal2"
 
 # Optional Google font URL
-google_fonts = "Montserrat:400,400i|Roboto:400,400i,700,700i|Roboto+Condensed:400|Roboto+Mono"
+google_fonts = "Helvetica:400,400i|Roboto:400,400i,700,700i|Roboto+Condensed:400|Roboto+Mono"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Helvetica"
 body_font = "Roboto"
-nav_font = "Montserrat"
+nav_font = "Helvetica"
 mono_font = "Roboto Mono"
