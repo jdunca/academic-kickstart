@@ -24,7 +24,8 @@ interests:
 - Information Politics
 - Citizenship & Authority
 - Borders & Migration
-- Policing, Security, & Surveillance
+- Policing & Security
+- Surveillance
 
 education:
   courses:
