@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-The world is changing quickly and I'm fascinated by how technology is reshaping our everyday encounters. My work engages with the impacts of data-driven technology on interactions between governments, citizens, and markets. I tend to focus on mobility, security, and urban studies. I have written and spoken on topics like policing and citizenship in 'smart' cities, Canada's Access to Information legislation, and the effects of automation at the Canadian border.
+The world is changing quickly and I'm fascinated by how technology is reshaping our everyday encounters. My work engages with the impacts of data-driven technology on interactions between governments, citizens, and markets. I tend to focus on how regimes of mobility and security are enacted both functionally and symbolically in political domains. I have written and spoken on topics like policing and citizenship in 'smart' cities, Access to Information legislation in Canada, and the effects of automation at the Canadian border.
