@@ -37,8 +37,8 @@ education:
   #  institution: Stanford University
   #  year: 2012
   - course: PhD Criminology (student)
-  - institution: University of Toronto
-  - cohort: 2020-present
+    institution: University of Toronto
+    year: 2020-present
   - course: MI in Information, Media & Technology Policy
     institution: University of Toronto
     year: 2019
