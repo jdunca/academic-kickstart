@@ -23,15 +23,22 @@ bio: Telling stories untold.
 interests:
 - Information Politics
 - Citizenship & Authority
-- Borders & Migration
-- Policing & Security
-- Surveillance
+- Borders
+- Mobility
+- Policing
+- Security
+- Transparency
+- Accountability
+
 
 education:
   courses:
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
+  - course: PhD Criminology (student)
+  - institution: University of Toronto
+  - cohort: 2020-present
   - course: MI in Information, Media & Technology Policy
     institution: University of Toronto
     year: 2019
@@ -67,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-The world is changing quickly and I'm fascinated by how technology is reshaping our everyday encounters. My work engages with the impacts of data-driven technology on interactions between governments, citizens, and markets. I tend to focus on how regimes of mobility and security are enacted both functionally and symbolically. I have written and spoken on topics like policing and citizenship in 'smart' cities, Access to Information legislation in Canada, and the effects of automation at the Canadian border.
+Jamie Duncan is a PhD student at the University of Toronto's Centre for Criminology and Sociolegal Studies. His work engages with the impacts of data-driven technology on interactions between governments, citizens, and markets. His doctoral research will focus on the impacts of transnational policy collaboration on border policing practices, especially as they relate to processes of shared technology adoption. Jamie has also written and spoken on topics like policing and citizenship in 'smart' cities, the role of the mass media in global security governance, and issues of government secrecy and transparency in Canada.
