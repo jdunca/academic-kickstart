@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: Student/ Researcher
 
 # Organizations/Affiliations
 organizations:
+- name: Centre for Criminology and Sociolegal Studies
+  url: "https://www.crimsl.utoronto.ca/people/directories/graduate-students/james-duncan"
 - name: Centre for Access to Information and Justice
   url: "https://www.uwinnipeg.ca/caij/"
 
@@ -23,8 +25,7 @@ bio: Telling stories untold.
 interests:
 - Information Politics
 - Citizenship & Authority
-- Borders
-- Mobility
+- Borders & Mobility
 - Policing
 - Security
 - Transparency
@@ -36,7 +37,7 @@ education:
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
-  - course: PhD Criminology (student)
+  - course: PhD Criminology
     institution: University of Toronto
     year: 2020-present
   - course: MI in Information, Media & Technology Policy
