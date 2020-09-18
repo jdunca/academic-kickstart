@@ -10,20 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Student/ Researcher
+role: PhD Student in Criminology
 
 # Organizations/Affiliations
 organizations:
-- name: Centre for Criminology and Sociolegal Studies
+- name: University of Toronto
   url: "https://www.crimsl.utoronto.ca/people/directories/graduate-students/james-duncan"
-- name: Centre for Access to Information and Justice
-  url: "https://www.uwinnipeg.ca/caij/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Telling stories untold.
 
 interests:
-- Information Politics
+- Information Policy
 - Citizenship & Authority
 - Borders & Mobility
 - Policing
