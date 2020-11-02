@@ -14,19 +14,18 @@ role: PhD Student in Criminology
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
+- name: University of Toronto, Centre for Criminology and Sociolegal Studies
   url: "https://www.crimsl.utoronto.ca/people/directories/graduate-students/james-duncan"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Telling stories untold.
 
 interests:
+- Ethics & Governance
 - Information Policy
-- Citizenship & Authority
-- Borders & Mobility
-- Policing
 - Transparency
-- Accountability
+- Borders & Migration
+- Security
 
 
 education:
@@ -72,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Jamie Duncan is a PhD student at the University of Toronto's Centre for Criminology and Sociolegal Studies. His work engages with the impacts of data-driven technology on interactions between states, citizens, and markets. His doctoral research focuses on the implications of transnational policy collaborations for border policing in Canada, especially in relation to processes of shared technology adoption. Jamie has written and spoken on topics like policing and citizenship in 'smart' cities, the role of the mass media in global security diplomacy, and issues of government secrecy and transparency in Canada. He works as a researcher for the Centre for Access to Information and Justice at the University of Winnipeg. For the 2020-21 academic year, Jamie also holds positions as a Junior Fellow at Massey College and a Graduate Research Fellow at the University of Toronto Ethics of AI Lab.
+Jamie Duncan is a PhD student at the University of Toronto's Centre for Criminology and Sociolegal Studies. His work engages with the impacts of data-driven technology on interactions between states, citizens, and markets. His doctoral research focuses on the implications of transnational policy collaboration for border policing in Canada with particular attention to processes of shared technology adoption. Jamie has written and spoken on topics like policing and citizenship in 'smart' cities, the role of the mass media in global security diplomacy, and issues of government secrecy and transparency in Canada. He works as a researcher for the Centre for Access to Information and Justice at the University of Winnipeg. For the 2020-21 academic year, Jamie also holds positions as a Junior Fellow at Massey College and a Graduate Research Fellow at the University of Toronto Ethics of AI Lab.
