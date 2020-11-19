@@ -23,8 +23,8 @@ bio: Telling stories untold.
 interests:
 - Governance
 - Citizenship
-- Borders & Migration
 - Information Policy
+- Borders & Migration
 - Security
 - Policing
 
