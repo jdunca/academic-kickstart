@@ -21,12 +21,11 @@ organizations:
 bio: Telling stories untold.
 
 interests:
-- Governance
-- Citizenship
-- Information Policy
-- Borders & Migration
-- Security
-- Policing
+- Borders & migration
+- Citizenship & governance
+- Surveillance & social control
+- Political communication
+- Information policy
 
 
 education:
@@ -72,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Jamie Duncan is a PhD student at the University of Toronto's Centre for Criminology and Sociolegal Studies. His work engages with the impacts of data-driven technology on interactions between states, citizens, and markets. His doctoral research focuses on the implications of transnational policy collaborations in border policing with particular attention to processes of shared technology adoption. Jamie has written and spoken on topics like policing and citizenship in 'smart' cities, the political communications of security in global and Canadian contexts, and issues of transparency in Canada's Access to Information system. He works as a researcher for the Centre for Access to Information and Justice at the University of Winnipeg. For the 2020-21 academic year, Jamie also holds positions as a Junior Fellow at Massey College and a Graduate Research Fellow at the University of Toronto Ethics of AI Lab.
+Jamie Duncan is a PhD student at the University of Toronto's Centre for Criminology and Sociolegal Studies. His work engages with the impacts of data-driven technology on interactions between states, citizens, and markets. His doctoral research focuses on the implications of transnational policy collaborations in border policing with particular attention to processes of shared technology adoption. Jamie has written and spoken on topics like policing and citizenship in 'smart' cities, the political communications of security, and issues of transparency and accountability in governance. He works as a researcher for the Centre for Access to Information and Justice at the University of Winnipeg. For the 2020-21 academic year, Jamie also holds positions as a Junior Fellow at Massey College and a Graduate Research Fellow at the University of Toronto Ethics of AI Lab.
