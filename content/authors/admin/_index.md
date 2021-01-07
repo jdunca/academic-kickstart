@@ -35,7 +35,7 @@ education:
   - course: PhD in Criminology
     institution: University of Toronto
     year: 2020-present
-  - course: MI in Information, Media & Technology Policy
+  - course: MI in Information Studies
     institution: University of Toronto
     year: 2019
   - course: BA in Global Development Studies
