@@ -34,7 +34,7 @@ education:
   #  year: 2012
   - course: PhD in Criminology
     institution: University of Toronto
-    year: 2020-present
+    year: 2020 - present
   - course: MI in Information Studies
     institution: University of Toronto
     year: 2019
