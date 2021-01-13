@@ -55,7 +55,7 @@ social:
   link: "https://www.linkedin.com/in/jamie-duncan/"
 - icon: cv
   icon_pack: ai
-  link: "files/cv.pdf"
+  #link: "files/cv.pdf"
 - icon: envelope
   icon_pack: fas
   link: "mailto:jamie.duncan@mail.utoronto.ca"  # For a direct email link, use "mailto:test@example.org".
