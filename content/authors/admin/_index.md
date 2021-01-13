@@ -32,7 +32,7 @@ education:
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
-  - course: PhD in Criminology and Sociolegal Studies
+  - course: PhD in Criminology
     institution: University of Toronto
     year: 2020-present
   - course: MI in Information Studies
