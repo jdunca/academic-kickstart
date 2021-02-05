@@ -64,7 +64,7 @@ social:
     #icon_pack: ai
     #link: "files/cv.pdf"
 
-    
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Jamie Duncan is a PhD student at the University of Toronto's Centre for Criminology and Sociolegal Studies. Building on a background in artificial intelligence policy, his work engages with the impacts of data-driven technology on interactions between states, citizens, and markets. His doctoral research focuses on the implications of transnational policy collaborations in border policing with particular attention to processes of shared technology adoption. Jamie has written and spoken on topics like policing and citizenship in 'smart' cities, the political communications of security, and issues of transparency and accountability in Canadian governance. He is a researcher at the Centre for Access to Information and Justice at the University of Winnipeg. Jamie is also a Junior Fellow at Massey College and a Graduate Research Fellow at the University of Toronto's Ethics of AI Lab.
+Jamie Duncan is a PhD student at the University of Toronto's Centre for Criminology and Sociolegal Studies. Building on a background in artificial intelligence policy, his work engages with the impacts of data-driven technology on interactions between states, citizens, and markets. His doctoral research focuses on the impacts of transnational policy collaborations on processes of technology adoption for border security. Jamie has written and spoken on topics like policing and citizenship in 'smart' cities, the political communications of security, and issues of transparency and accountability in Canadian governance. He is a researcher at the Centre for Access to Information and Justice at the University of Winnipeg. Jamie is also a Junior Fellow at Massey College and a Graduate Research Fellow at the University of Toronto's Ethics of AI Lab.
