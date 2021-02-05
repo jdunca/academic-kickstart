@@ -53,8 +53,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/jamie-duncan/"
-- icon: cv
-  icon_pack: ai
+- #icon: cv
+  #icon_pack: ai
   #link: "files/cv.pdf"
 - icon: envelope
   icon_pack: fas
