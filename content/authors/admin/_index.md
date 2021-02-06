@@ -60,7 +60,7 @@ social:
   link: "mailto:jamie.duncan@mail.utoronto.ca"  # For a direct email link, use "mailto:test@example.org".
 
 
-  - #icon: cv
+  #icon: cv
     #icon_pack: ai
     #link: "files/cv.pdf"
 
