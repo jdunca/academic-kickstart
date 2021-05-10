@@ -3,7 +3,7 @@
 
 title: "Duncan, J. (2019). Negotiating Citizenship: Mediatized Migration and the Canadian Data Border"
 authors: []
-date: 2019-11-14T23:10:16-04:00
+date: 2019-11-14
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

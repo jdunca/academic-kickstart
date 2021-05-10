@@ -3,7 +3,7 @@
 
 title: "Duncan, J. (2018). Uncertainty and Desire: Big Data Surveillance and Digital Citizenship"
 authors: []
-date: 2018-04-14T23:04:31-04:00
+date: 2018-04-14
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

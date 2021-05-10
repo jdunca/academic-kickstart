@@ -3,7 +3,7 @@
 
 title: "Duncan, J. & Caidi, N. (2018). Mobilities, Media and Governmentality: Asylum Seekers in Lacolle, Quebec."
 authors:
-date: 2018-11-14T21:31:43-04:00
+date: 2018-11-14
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@
 
 title: "Duncan, J. & Luscombe, A. (2021). What Clearview AI Did Was Illegal, But Don't Play Down The RCMP's Role In It."
 authors:
-date: 2018-11-14T21:31:43-04:00
+date: 2021-02-09
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
