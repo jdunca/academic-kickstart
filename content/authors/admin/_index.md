@@ -32,13 +32,13 @@ education:
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
-  - course: PhD in Criminology
+  - course: Ph.D. in Criminology
     institution: University of Toronto
     year: 2020 - present
-  - course: MI in Information Studies
+  - course: M.I. in Information Policy
     institution: University of Toronto
     year: 2019
-  - course: BA in Global Development Studies
+  - course: B.A. in Global Development Studies
     institution: Western University
     year: 2016
 
