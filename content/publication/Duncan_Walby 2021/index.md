@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: British Journal of Criminology
 publication_short:
 
-abstract:
+abstract: "The political communications of police unions in the digital age deserve more attention from criminologists. This article examines the communications of two Canadian police associations in Toronto and Winnipeg. Using multimodal discourse analysis, we describe how police unions tactically engage with multiple forms of media to disseminate strategic narratives that reflect police identity and ideology. We conceptualize the mobilization of ‘thin blue line’ narratives and maintenance of a ‘blue wall of silence’ as forms of boundary work, which serve to favourably delineate the role of police in their communities while sidestepping critical views. The proliferation of digital media amplifies the unions’ capacities to influence local politics by undermining elected authorities and community activists while advancing a police-centric view of society."
 
 # Summary. An optional shortened abstract.
 summary: ""
