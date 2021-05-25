@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "https://doi.org/10.1093/bjc/azab043"
+url_source:
 url_video:
 
 # Featured image
