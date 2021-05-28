@@ -4,7 +4,7 @@
 title: "Duncan, J. & Walby, K. (2021). Police Union Political Communications in Canada."
 authors:
 date: 2021-05-24
-doi: "https://doi.org/10.1093/bjc/azab043"
+doi: "https://academic.oup.com/bjc/advance-article/doi/10.1093/bjc/azab043/6282889?guestAccessKey=0165d8c5-73d7-4862-bdcb-7299651ccb2f"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-14T21:31:43-04:00
