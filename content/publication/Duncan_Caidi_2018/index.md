@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Duncan, J. & Caidi, N. (2018). Mobilities, Media and Governmentality: Asylum Seekers in Lacolle, Quebec."
+title: "Duncan, J. & Caidi, N. (2018). Mobilities, media and governmentality: Asylum seekers in Lacolle, Quebec."
 authors:
 date: 2018-11-14
 doi: ""

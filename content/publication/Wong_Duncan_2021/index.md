@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Wong, W & Duncan, J. (2021). Facebook’s metaverse won’t be bound by physical borders – neither are human rights"
+title: "Wong, W & Duncan, J. (2021). Facebook’s metaverse won’t be bound by physical borders – neither are human rights."
 authors:
 date: 2021-11-05
 doi: ""

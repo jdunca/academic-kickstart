@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Duncan, J. & Walby, K. (2021). Police Union Political Communications in Canada."
+title: "Duncan, J. & Walby, K. (2021). Police union political communications in Canada."
 authors:
 date: 2021-05-24
 doi: "https://academic.oup.com/bjc/advance-article/doi/10.1093/bjc/azab043/6282889?guestAccessKey=0165d8c5-73d7-4862-bdcb-7299651ccb2f"

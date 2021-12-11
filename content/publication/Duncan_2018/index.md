@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Duncan, J. (2018). Uncertainty and Desire: Big Data Surveillance and Digital Citizenship."
+title: "Duncan, J. (2018). Uncertainty and desire: Big data surveillance and digital citizenship."
 authors: []
 date: 2018-04-14
 doi: ""

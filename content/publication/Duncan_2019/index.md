@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Duncan, J. (2019). Negotiating Citizenship: Mediatized Migration and the Canadian Data Border."
+title: "Duncan, J. (2019). Negotiating citizenship: Mediatized migration and the Canadian data border."
 authors: []
 date: 2019-11-14
 doi: ""
