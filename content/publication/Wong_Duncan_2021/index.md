@@ -3,7 +3,7 @@
 
 title: "Wong, W & Duncan, J. (2021). Facebook’s metaverse won’t be bound by physical borders – neither are human rights"
 authors:
-date: 2021-02-09
+date: 2021-11-05
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
