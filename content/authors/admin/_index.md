@@ -18,14 +18,13 @@ organizations:
   url: "https://www.crimsl.utoronto.ca/people/directories/graduate-students/james-duncan"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Telling stories untold.
+bio:
 
 interests:
-- Information policy
-- Citizenship & governance
-- Political communication
-- Surveillance & security
 - Borders & migration
+- Surveillance & technology
+- Data governance
+- Transparency and accountability
 
 education:
   courses:
@@ -74,4 +73,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Jamie Duncan is a PhD student at the University of Toronto’s Centre for Criminology and Sociolegal Studies and a researcher at the Centre for Access to Information and Justice at the University of Winnipeg. He is also a Junior Fellow of Massey College. Jamie has written and spoken about the use of advanced technology in policing and border security, the political communications of public safety, as well as transparency and accountability in Canadian governance. His work has appeared in outlets such as *The British Journal of Criminology* and *The Globe and Mail*. Jamie's doctoral research focuses on technology adoption and use in border security. It is supported by a Canada Graduate Scholarship in Honour of Nelson Mandela.
+Jamie Duncan is a PhD student at the University of Toronto’s Centre for Criminology and Sociolegal Studies and a researcher at the Centre for Access to Information and Justice at the University of Winnipeg. Jamie has written and spoken about the use of advanced technology in policing and border security, the political communications of public safety, as well as transparency and accountability in Canadian governance. His work has appeared in outlets such as *The British Journal of Criminology* and *The Globe and Mail*. Jamie's doctoral research focuses on the role of biometric and data-driven technologies in transnational border security collaborations between Australia, Canada, New Zealand, the United Kingdom, and the United States. This work is supported by a Canada Graduate Scholarship in Honour of Nelson Mandela.
