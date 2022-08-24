@@ -23,8 +23,8 @@ bio:
 interests:
 - Borders & migration
 - Surveillance & technology
+- Transparency & accountability
 - Data governance
-- Transparency and accountability
 
 education:
   courses:
