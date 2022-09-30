@@ -21,10 +21,12 @@ organizations:
 bio:
 
 interests:
-- Borders & migration
-- Surveillance & technology
-- Transparency & accountability
-- Data governance
+- information policy
+- technology governance
+- strategic communications
+- migration
+- policing
+- security
 
 education:
   courses:
@@ -56,7 +58,7 @@ social:
   link: "https://www.linkedin.com/in/jamie-duncan/"
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jamie.duncan@mail.utoronto.ca"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:jamie.duncan@utoronto.ca"  # For a direct email link, use "mailto:test@example.org".
 
 
   #icon: cv
@@ -65,7 +67,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,4 +75,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Jamie Duncan is a PhD student at the University of Toronto’s Centre for Criminology and Sociolegal Studies and a researcher at the Centre for Access to Information and Justice at the University of Winnipeg. Jamie has written and spoken about the use of advanced technology in policing and border security, the political communications of public safety, as well as transparency and accountability in Canadian governance. His work has appeared in outlets such as *The British Journal of Criminology* and *The Globe and Mail*. Jamie's doctoral research focuses on the role of biometric and data-driven technologies in transnational border security collaborations between Australia, Canada, New Zealand, the United Kingdom, and the United States. This work is supported by a Canada Graduate Scholarship in Honour of Nelson Mandela.
+Jamie Duncan is a PhD student at the University of Toronto’s Centre for Criminology and Sociolegal Studies and a researcher at the Centre for Access to Information and Justice at the University of Winnipeg. Jamie studies information policy, technology governance, and strategic communications with focus on topics related to security, policing, and migration. He is an interdisciplinary social scientist that draws from the fields of sociology, law, political science, and communications. His work has appeared in outlets such as *The British Journal of Criminology* and *The Globe and Mail*. Jamie's doctoral research focuses on transnational information sharing for border and immigration governance between Australia, Canada, New Zealand, the United Kingdom, and the United States. This work is supported by a Canada Graduate Scholarship in Honour of Nelson Mandela.
