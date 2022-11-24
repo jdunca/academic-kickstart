@@ -22,8 +22,8 @@ bio:
 
 interests:
 - information policy
-- technology governance
 - strategic communications
+- technology governance
 - security
 - migration
 - policing
