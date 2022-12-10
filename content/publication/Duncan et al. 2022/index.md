@@ -3,7 +3,7 @@
 
 title: "Duncan, J., Luscombe, A., & Walby, K. (2022). Governing through transparency: Investigating the new access to information regime in Canada."
 authors:
-date: 2021-05-24
+date: 2022-11-08
 doi: "https://academic.oup.com/bjc/advance-article/doi/10.1093/bjc/azab043/6282889?guestAccessKey=0165d8c5-73d7-4862-bdcb-7299651ccb2f"
 
 # Schedule page publish date (NOT publication's date).
